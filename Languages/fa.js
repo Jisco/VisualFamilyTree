@@ -16,8 +16,8 @@
     no: 'نه',
     unknown: 'ناشناس',
     chosenOne: 'شخص اصلی',
-    importFile: 'فایل وارد کن',
-    exportFile: 'فایل خارج کن',
+    importFile: 'فایل را وارد کن',
+    exportFile: 'از فایل خروجی بگیر',
     value: 'محتوا',
     count: 'دفعات به کار رفته',
     empty: 'هیچی انتخاب نشده',
@@ -138,12 +138,12 @@
         database: {
             title: 'بانک اطلاعات',
             new: 'جدید',
-            families: 'خاندان‌ها',
+            families: 'خانواده‌ها',
             import: 'وارد کردن',
-            export: 'خارج کردن'
+            export: 'خروجی گرفتن'
         },
         family: {
-            title: 'خاندان',
+            title: 'خانواده',
             chart: 'نمای درختی',
             table: 'جدول',
             suggestions: 'پیشنهادها',
@@ -152,7 +152,7 @@
             validations: 'راستی‌آزمایی‌ها'
         },
         languages: 'زبان',
-        export: 'خارج کردن',
+        export: 'خروجی گرفتن',
         help: {
             title: 'راهنما',
             thirdPartySoftware: 'نرم‌افزارهای ثالث',
@@ -177,10 +177,10 @@
             addPartner: 'همسر',
             alreadyTwoParents: 'این شخص در حال حاضر هر دو والد بیولوژیگی را دارد.',
             notPossibleActionTitle: 'انجام این کار ممکن نیست!',
-            removePerson: 'حذف شخص'
+            removePerson: 'حذف'
         },
         options: {
-            familyTree: "درخت خاندان",
+            familyTree: "درخت خانواده",
             ancestorsTree: "اجداد",
             title: "تنظیمات نمودار",
             compactView: "نمای فشرده",
@@ -218,8 +218,8 @@
         next: 'یک خواهر یا برادر دیگر بساز'
     },
     newFamily: {        
-        title: 'خاندان جدید',
-        name: 'نام خاندان'
+        title: 'خانواده جدید',
+        name: 'نام خانواده'
     },
     firstPerson: {
         title: 'اولین شخص را بساز'
@@ -277,7 +277,7 @@
     requires: {
         FirstNames: 'لطفا نام کوچک را وارد کنید',
         LastName: 'لطفا نام خانوادگی را وارد کنید',
-        familyName: 'لطفا نام خاندان را وارد کنید'
+        familyName: 'لطفا نام خانواده را وارد کنید'
     },
     print: {
         EndEditing: 'پایان ویرایش',
@@ -300,7 +300,7 @@
         type: "نوع",
         types: {
             ancestor: "درخت اجداد",
-            familyTree: "درخت خاندان"
+            familyTree: "درخت خانواده"
         },
         rootPerson: "شخص اصلی",
         direction: "جهت",
@@ -389,12 +389,12 @@
         }
     },
     thirdParty: {
-        grafics: "برخی از عکس‌ها و آیکون‌ها",
-        fonts: "قلم‌ها",
-        font: "قلم",
-        licence: "مجوز"
+        grafics: "Some Icons and Images",
+        fonts: "Fonts",
+        font: "Font",
+        licence: "Licence"
     },
     about: {
-        buildBy: "این نرم‌افزار توسط یِنس هوآنِکه ساخته شده است"
+        buildBy: "'Visual Family Tree' is built by Jens Hoernecke"
     }
 };
