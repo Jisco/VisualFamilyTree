@@ -1,4 +1,86 @@
 ﻿export const Dictionary = {
+    devextreme: {
+        search: "Search...",
+        grouping: {
+            groupByThisColumn: "Group by This Column",
+            groupContinuedMessage: "Continued from the previous page",
+            groupContinuesMessage: "Continues on the next page",
+            ungroup: "Ungroup",
+            ungroupAll: "Ungroup All",
+            emptyPanelText: "Drag a column header here to group by that column"
+        },
+        columnchooser: {
+            emptyPanelText: "Drag a column here to hide it",
+            title: "Column Chooser"
+        },
+        columnfixing: {
+            fix: "Fix",
+            leftPosition: "To the left",
+            rightPosition: "To the right",
+            unfix: "Unfix"
+        },
+        gridEditing: {
+            addRow: "Add a row",
+            cancelAllChanges: "Discard changes",
+            cancelRowChanges: "Cancel",
+            confirmDeleteMessage: "Are you sure you want to delete this record?",
+            confirmDeleteTitle: "",
+            deleteRow: "Delete",
+            editRow: "Edit",
+            saveAllChanges: "Save changes",
+            saveRowChanges: "Save",
+            undeleteRow: "Undelete",
+            validationCancelChanges: "Cancel changes"
+        },
+        filterRow: {
+            applyFilterText: "Apply filter",
+            betweenEndText: "End",
+            betweenStartText: "Start",
+            operationDescriptions: {
+                between: "Between",
+                contains: "Contains",
+                endsWith: "Ends with",
+                equal: "Equals",
+                greaterThan: "Greater than",
+                greaterThanOrEqual: "Greater than or equal to",
+                lessThan: "Less than",
+                lessThanOrEqual: "Less than or equal to",
+                notContains: "Does not contain",
+                notEqual: "Does not equal",
+                startsWith: "Starts with",
+            },
+            resetOperationText: "Reset",
+        },
+        summary: {
+            avg: "Avg={0}",
+            avgOtherColumn: "Avg of {1} is {0}",
+            count: "Count={0}",
+            max: "Max={0}",
+            maxOtherColumn: "Max of {1} is {0}",
+            min: "Min={0}",
+            minOtherColumn: "Min of {1} is {0}",
+            sum: "Sum={0}",
+            sumOtherColumn: "Sum of {1} is {0}"
+        },
+        noData: "No data",
+        select: "Select",
+        sorting: {
+            ascendingText: "Sort Ascending",
+            clearText: "Clear Sorting",
+            descendingText: "Sort Descending",
+        },
+        fileuploader: {
+            invalidFileExtensionMessage: "File type is not allowed",
+            invalidMaxFileSizeMessage: "File is too large",
+            invalidMinFileSizeMessage: "File is too small",
+            labelText: "or Drop file here",
+            readyToUploadMessage: "Ready to upload",
+            selectButtonText: "Select File",
+            uploadButtonText: "Upload",
+            uploadedMessage: "Uploaded",
+            uploadFailedMessage: "Upload failed",
+        }
+    },
     newVersionTitle: "به روز رسانی موجود است",
     newVersion: "یک نسخه‌ی جدید یافت شد.",
     innovations: "نوآوری‌ها",
