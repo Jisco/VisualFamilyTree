@@ -1,4 +1,26 @@
 ﻿export const Dictionary = {
+    languages: {
+        en: "انگلیسی",
+        de: "آلمانی",
+        fa: "فارسی",
+        es: "اسپانیایی"
+    },
+    dateSettings: {
+        title: "قالب های تاریخ",
+        monthYear: "ماه و سال",
+        fullDate: "تاریخ کامل"
+    },
+    fontSettings: {
+        fonts: "قلم ها",
+        mainFont: "قلم اصلی",
+        letterSpacing: "فاصله بین حروف",
+        menuFont: "منو",
+        editor: {
+            title: "ویرایش",
+            editorFont: "ویرایشگر",
+            labelFont: "برچسب زدن"
+        }
+    },
     devextreme: {
         search: "جستجو...",
         grouping: {
@@ -92,6 +114,7 @@
     save: 'ذخیره',
     saveAndClose: 'ذخیره و بستن',
     options: 'تنظیمات',
+    settings: 'تنظیمات',
     ok: 'باشه',
     create: 'بساز',
     yes: 'آره',
@@ -118,6 +141,7 @@
         Families: 'در حال آماده‌سازی خانواده‌ها...',
         Documents: 'در حال آماده‌سازی اسناد...',
         Suggestions: 'در حال آماده‌سازی پیشنهادها...',
+        Settings: 'تنظیمات بارگیری...'
     },
     suggestions: {
         cities: 'شهرها',

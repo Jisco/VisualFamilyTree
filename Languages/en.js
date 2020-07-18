@@ -1,4 +1,26 @@
 ﻿export const Dictionary = {
+    languages: {
+        en: "English",
+        de: "German",
+        fa: "Farsi",
+        es: "Spanish"
+    },
+    dateSettings: {
+        title: "Date formats",
+        monthYear: "Month and Year",
+        fullDate: "Full date"
+    },
+    fontSettings: {
+        fonts: "Fonts",
+        mainFont: "Main font",
+        letterSpacing: "Letter Spacing",
+        menuFont: "Menu",
+        editor: {
+            title: "Editing",
+            editorFont: "Editor",
+            labelFont: "Labeling"
+        }
+    },
     newVersionTitle: "New Version available",
     newVersion: "A new version is available.",
     innovations: "Innovations",
@@ -10,6 +32,7 @@
     save: 'Save',
     saveAndClose: 'Save and close',
     options: 'Options',
+    settings: 'Settings',
     ok: 'Ok',
     create: 'Create',
     yes: 'Yes',
@@ -36,6 +59,7 @@
         Families: 'Loading Families...',
         Documents: 'Loading Documents...',
         Suggestions: 'Loading Suggestions...',
+        Settings: 'Loading Settings...'
     },
     suggestions: {
         cities: 'Cities',

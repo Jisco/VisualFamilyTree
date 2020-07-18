@@ -1,4 +1,26 @@
 ﻿export const Dictionary = {
+    languages: {
+        en: "Englisch",
+        de: "Deutsch",
+        fa: "Farsi",
+        es: "Spanisch"
+    },
+    dateSettings: {
+        title: "Datumsformate",
+        monthYear: "Monat und Jahr",
+        fullDate: "Volles Datum"
+    },
+    fontSettings: {
+        fonts: "Schriftarten",
+        mainFont: "Hauptschriftart",
+        letterSpacing: "Buchstabenabstand",
+        menuFont: "Menü",
+        editor: {
+            title: "Bearbeitung",
+            editorFont: "Editor",
+            labelFont: "Beschriftung"
+        }
+    },
     newVersionTitle: "Neue Version verfübgar",
     newVersion: "Es ist eine neue Version verfügbar.",
     innovations: "Neuerungen",
@@ -10,6 +32,7 @@
     save: 'Speichern',
     saveAndClose: 'Speichern und schließen',
     options: 'Optionen',
+    settings: 'Einstellungen',
     ok: 'Ok',
     create: 'Anlegen',
     yes: 'Ja',
@@ -36,6 +59,7 @@
         Families: 'Lade Familienübersicht...',
         Documents: 'Lade Dokumente...',
         Suggestions: 'Lade Vorschlagslisten...',
+        Settings: 'Lade Einstellungen...'
     },
     suggestions: {
         cities: 'Städte',
@@ -143,7 +167,7 @@
         },
         family: {
             title: 'Familie',
-            chart: 'Diagram',
+            chart: 'Diagramm',
             table: 'Tabelle',
             suggestions: 'Vorschlagslisten',
             documents: 'Dokumente',
@@ -159,7 +183,7 @@
         }
     },
     chart: {
-        load: "Lade Chartansicht...",
+        load: "Lade Diagrammansicht...",
         settings: {
             refresh: "Neu laden"
         },
