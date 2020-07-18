@@ -199,7 +199,7 @@
             addParent: 'Padre',
             addPartner: 'Pareja',
             alreadyTwoParents: 'La persona ya tiene dos padres biológicos.',
-            notPossibleActionTitle: '¡Esta acción no se pudo llevarse a cabo!',
+            notPossibleActionTitle: '¡Esta acción no pudo llevarse a cabo!',
             removePerson: 'Eliminar',
         },
         options: {
