@@ -13,12 +13,12 @@
     fontSettings: {
         fonts: "Fuentes",
         mainFont: "Fuente principal",
-        letterSpacing: "Espaciado de letras",
+        letterSpacing: "Espaciado entre caracteres",
         menuFont: "Menú",
         editor: {
             title: "Edición",
             editorFont: "Editor",
-            labelFont: "etiquetado"
+            labelFont: "Etiquetado"
         }
     },
     newVersionTitle: 'Nueva versión disponible',
@@ -32,7 +32,7 @@
     save: 'Guardar',
     saveAndClose: 'Guardar y cerrar',
     options: 'Opciones',
-    settings: 'Configuraciones',
+    settings: 'Ajustes',
     ok: 'Ok',
     create: 'Crear',
     yes: 'Si',
@@ -59,7 +59,7 @@
         Families: 'Cargando Familias...',
         Documents: 'Cargando Documentos...',
         Suggestions: 'Cargando Sugerencias...',
-        Settings: 'Cargando Configuraciones...'
+        Settings: 'Cargando Ajustes...'
     },
     suggestions: {
         cities: 'Ciudades',
@@ -82,7 +82,7 @@
             expressions: 'Títulos',
             geographie: 'Geografía',
         },
-        deleteAllWithoutUsing: 'Borrar todos los valores sin usar',
+        deleteAllWithoutUsing: 'Borrar todos los valores sin uso',
     },
     import: {
         dialog: 'Bienvenido',
@@ -94,8 +94,8 @@
     confirm: {
         person: {
             delete: {
-                title: '¿Quieres remover a la persona?',
-                text: '¿Debería la persona ser removida?',
+                title: '¿Quiere eliminar a la persona?',
+                text: 'Esta persona será eliminada ¿Esta seguro?',
             },
         },
     },
@@ -112,8 +112,8 @@
                 biological: 'Padres Biológicos',
             },
             images: {
-                title: 'Imagenes',
-                loadimages: 'Cargando Imagenes...',
+                title: 'Imágenes',
+                loadimages: 'Cargando Imágenes...',
                 show: 'Mostrar',
                 delete: 'Borrar',
                 favorite: 'Favorito',
@@ -174,7 +174,7 @@
             statistics: 'Estadísticas',
             validations: 'Validaciones',
         },
-        languages: 'Languaje',
+        languages: 'Lenguaje',
         export: 'Exportar',
         help: {
             title: 'Ayuda',
@@ -199,7 +199,7 @@
             addParent: 'Padre',
             addPartner: 'Pareja',
             alreadyTwoParents: 'La persona ya tiene dos padres biológicos.',
-            notPossibleActionTitle: '¡Esta acción no se pudo llevar a cabo!',
+            notPossibleActionTitle: '¡Esta acción no pudo llevarse a cabo!',
             removePerson: 'Eliminar',
         },
         options: {
@@ -261,7 +261,7 @@
         Country: 'País',
         Place: 'Lugar',
         ReligionName: 'Religión',
-        Events: 'Eventoss',
+        Events: 'Eventos',
         Date: 'Fecha',
         From: 'De',
         To: 'Para',
@@ -317,7 +317,7 @@
         Editable: 'Editable',
         CreatingPreview: 'Creando un gráfico vectorial...',
         settings: 'Ajustes',
-        expertSettings: 'Configuración avanzada',
+        expertSettings: 'Ajustes avanzados',
         type: 'Tipo',
         types: {
             ancestor: 'Árbol de Antepasados',
@@ -327,15 +327,15 @@
         direction: 'Orientación',
         directions: {
             left: 'De Izquierda a Derecha',
-            top: 'De Arriba a Abajo',
-            bottom: 'De Abajo hacia Arriba',
+            top: 'De Superior a Inferior',
+            bottom: 'De Inferior a Superior',
             right: 'De Derecha a Izquierda',
         },
         designSettings: 'Diseño',
         nodeDesign: 'Diseño',
         create: 'Crear',
         designs: {
-            small: 'Delgado',
+            small: 'Estrecho',
             wide: 'Ancho',
             custom: 'Personalizado',
         },
@@ -378,7 +378,7 @@
             Italic: 'Cursiva',
             Bold: 'Negrita',
             DateFormat: 'Formato de Fecha',
-            ResetToSmall: 'Restablecer a Delgado',
+            ResetToSmall: 'Restablecer a Estrecho',
             ResetToWide: 'Restablecer a Ancho',
             HorizontalAlignment: 'Alineación Horizontal',
             VerticalAlignment: 'Alineación Vertical',
@@ -387,14 +387,14 @@
                 None: 'Ninguno',
                 Left: 'Izquierda',
                 Right: 'Derecha',
-                Center: 'Centro',
+                Center: 'Centrar',
                 Stretch: 'Estirar',
             },
             VerticalAlignments: {
                 None: 'Ninguno',
                 Top: 'Arriba',
                 Bottom: 'Abajo',
-                Center: 'Centro',
+                Center: 'Centrar',
                 Stretch: 'Estirar',
             },
         },
