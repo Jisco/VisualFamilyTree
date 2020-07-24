@@ -4,6 +4,13 @@ With this app you can create a family tree with extensive information and pictur
 
 Website: [https://visualfamilytree.jisco.me](https://visualfamilytree.jisco.me)
 
+## <a href="https://github.com/Jisco/VisualFamilyTree/blob/master/v1.2.0.md">Version 1.2.0</a>
+* New screen for extended app settings
+  * New Languages: Farsi and Spanish (thanks @SepSol, @MrOlivo)
+  * 5 date formats
+  * 9 different fonts
+* Far-reaching right to left support (special thanks @SepSol 😀)
+
 ## <a href="https://github.com/Jisco/VisualFamilyTree/blob/master/v1.1.0.md">Version 1.1.0</a>
 * Weddingdates in chart and export
 * Icons instead of symbols
