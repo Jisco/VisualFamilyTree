@@ -4,7 +4,7 @@
         de: "Deutsch",
         fa: "Farsi",
         es: "Spanisch",
-        ru: "Russian"
+        ru: "Russisch"
     },
     dateSettings: {
         title: "Datumsformate",
