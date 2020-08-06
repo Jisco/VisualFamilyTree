@@ -230,9 +230,9 @@
         otherParent: 'Другой родитель'
     },
     newPartner: {
-        title: 'New partner for ',
-        next: 'Create another partner',
-        existing: 'Existing Person'
+        title: 'Новый партнер для ',
+        next: 'Создано партнера',
+        existing: 'Существующий человек'
     },
     newParent: {
         title: 'Новый партер для '
