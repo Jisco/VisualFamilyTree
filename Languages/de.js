@@ -3,7 +3,8 @@
         en: "Englisch",
         de: "Deutsch",
         fa: "Farsi",
-        es: "Spanisch"
+        es: "Spanisch",
+        ru: "Russian"
     },
     dateSettings: {
         title: "Datumsformate",
