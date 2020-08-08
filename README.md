@@ -4,6 +4,13 @@ With this app you can create a family tree with extensive information and pictur
 
 Website: [https://visualfamilytree.jisco.me](https://visualfamilytree.jisco.me)
 
+## <a href="https://github.com/Jisco/VisualFamilyTree/blob/master/v1.3.0.md">Version 1.3.0</a>
+* add russian translation
+Thanks @Gimanh 🚀
+* performance improvments
+* display persons in chart ascending by creation date (aka "None"), by birth date or alphabetically
+* minor bugfixings
+
 ## <a href="https://github.com/Jisco/VisualFamilyTree/blob/master/v1.2.0.md">Version 1.2.0</a>
 * New screen for extended app settings
   * New Languages: Farsi and Spanish (thanks @SepSol, @MrOlivo)
