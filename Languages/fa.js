@@ -1,4 +1,8 @@
 ﻿export const Dictionary = {
+    orderBy: {
+        label: "ترتیب زمانی",
+        none: "هیچ‌کدام",
+    },
     languages: {
         en: "انگلیسی",
         de: "آلمانی",

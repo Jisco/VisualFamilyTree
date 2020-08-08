@@ -1,4 +1,8 @@
 ﻿export const Dictionary = {
+    orderBy: {
+        label: "Order",
+        none: "None",
+    },
     languages: {
         en: "English",
         de: "German",
