@@ -1,6 +1,6 @@
 ﻿export const Dictionary = {
     orderBy: {
-        label: "последовательность",
+        label: "Сортировать по",
         none: "нет",
     },
     languages: {
