@@ -1,6 +1,6 @@
 ﻿export const Dictionary = {
     orderBy: {
-        label: "ترتیب زمانی",
+        label: "مرتب‌سازی بر اساس",
         none: "هیچ‌کدام",
     },
     languages: {
