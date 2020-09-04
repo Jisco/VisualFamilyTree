@@ -4,6 +4,11 @@ With this app you can create a family tree with extensive information and pictur
 
 Website: [https://visualfamilytree.jisco.me](https://visualfamilytree.jisco.me)
 
+## <a href="https://github.com/Jisco/VisualFamilyTree/blob/master/v1.3.1.md">Version 1.3.1</a>
+* Save last used directory for import\export
+* Refactoring export for large family trees
+* Third-party component updates
+
 ## <a href="https://github.com/Jisco/VisualFamilyTree/blob/master/v1.3.0.md">Version 1.3.0</a>
 * add russian translation
 Thanks @Gimanh 🚀
