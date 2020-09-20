@@ -1,5 +1,6 @@
 ﻿export const Dictionary = {
     orderBy: {
+        label: "ترتیب زمانی",
         none: "هیچ‌کدام",
     },
     languages: {
@@ -508,3 +509,4 @@
     about: {
         buildBy: "'Visual Family Tree' is built by Jens Hoernecke"
     }
+};
