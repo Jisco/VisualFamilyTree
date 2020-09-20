@@ -190,7 +190,8 @@
     chart: {
         load: "Loading Chart...",
         settings: {
-            refresh: "Refresh"
+            refresh: "Refresh",
+            zoom: "Zoom factor"
         },
         leftBar: {
             actions: 'Add',

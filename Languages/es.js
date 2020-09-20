@@ -191,6 +191,7 @@
         load: 'Cargando Gráfico...',
         settings: {
             refresh: 'Refrescar',
+            zoom: "Factor de zoom"
         },
         leftBar: {
             actions: 'Agregar',

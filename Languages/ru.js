@@ -1,6 +1,6 @@
 ﻿export const Dictionary = {
     orderBy: {
-        label: "Сортировать по",
+        label: "последовательность",
         none: "нет",
     },
     languages: {
@@ -190,7 +190,8 @@
     chart: {
         load: "Загрузка диаграммы...",
         settings: {
-            refresh: "Обновить"
+            refresh: "Обновить",
+            zoom: "коэффициент масштабирования"
         },
         leftBar: {
             actions: 'Добавить',

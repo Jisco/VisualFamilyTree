@@ -1,6 +1,5 @@
 ﻿export const Dictionary = {
     orderBy: {
-        label: "مرتب‌سازی بر اساس",
         none: "هیچ‌کدام",
     },
     languages: {
@@ -273,7 +272,8 @@
     chart: {
         load: "در حال آماده‌سازی نمای درختی...",
         settings: {
-            refresh: "بارگزاری مجدد"
+            refresh: "بارگزاری مجدد",
+            zoom: "فاکتور بزرگنمایی"
         },
         leftBar: {
             actions: 'افزودن',
@@ -508,4 +508,3 @@
     about: {
         buildBy: "'Visual Family Tree' is built by Jens Hoernecke"
     }
-};

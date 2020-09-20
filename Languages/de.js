@@ -190,7 +190,8 @@
     chart: {
         load: "Lade Diagrammansicht...",
         settings: {
-            refresh: "Neu laden"
+            refresh: "Neu laden",
+            zoom: "Zoomfaktor"
         },
         leftBar: {
             actions: 'Hinzufügen',
