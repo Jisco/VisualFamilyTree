@@ -191,7 +191,10 @@
         load: 'Cargando Gráfico...',
         settings: {
             refresh: 'Refrescar',
-            zoom: "Factor de zoom"
+            zoom: "Factor de zoom",
+            verticalAlign: "Organizar a las personas verticalmente",
+            verticalAlignLevel: "de generación"
+
         },
         leftBar: {
             actions: 'Agregar',

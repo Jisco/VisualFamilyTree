@@ -7,7 +7,7 @@
         * en.js
             * newVersionTitle: "New Version available",
         * de.js
-            * newVersionTitle: "Neue Version verfübgar",
+            * newVersionTitle: "Neue Version verfügbar",
 2. Save your file with the language code according to ISO 639-1
     * http://www.mathguide.de/info/tools/languagecode.html
         * eg: Languages/fr.js

@@ -26,7 +26,7 @@
             labelFont: "Beschriftung"
         }
     },
-    newVersionTitle: "Neue Version verfübgar",
+    newVersionTitle: "Neue Version verfügbar",
     newVersion: "Es ist eine neue Version verfügbar.",
     innovations: "Neuerungen",
     installWhenClosing: "Installieren nach Beenden",
@@ -191,7 +191,9 @@
         load: "Lade Diagrammansicht...",
         settings: {
             refresh: "Neu laden",
-            zoom: "Zoomfaktor"
+            zoom: "Zoomfaktor",
+            verticalAlign: "Personen vertikal anordnen",
+            verticalAlignLevel: "ab Generation"
         },
         leftBar: {
             actions: 'Hinzufügen',

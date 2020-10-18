@@ -274,7 +274,9 @@
         load: "در حال آماده‌سازی نمای درختی...",
         settings: {
             refresh: "بارگزاری مجدد",
-            zoom: "فاکتور بزرگنمایی"
+            zoom: "فاکتور بزرگنمایی",
+            verticalAlign: "ترتیب افراد به صورت عمودی",
+            verticalAlignLevel: "از نسل"
         },
         leftBar: {
             actions: 'افزودن',

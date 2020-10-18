@@ -191,7 +191,9 @@
         load: "Loading Chart...",
         settings: {
             refresh: "Refresh",
-            zoom: "Zoom factor"
+            zoom: "Zoom factor",
+            verticalAlign: "Arrange people vertically",
+            verticalAlignLevel: "from generation"
         },
         leftBar: {
             actions: 'Add',
