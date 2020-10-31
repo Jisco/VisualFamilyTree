@@ -4,6 +4,9 @@ With this app you can create a family tree with extensive information and pictur
 
 Website: [https://visualfamilytree.jisco.me](https://visualfamilytree.jisco.me)
 
+## Version 1.3.5
+* Minor Bugfixings
+
 ## <a href="https://github.com/Jisco/VisualFamilyTree/blob/master/v1.3.4.md">Version 1.3.4</a>
 * add files as source and open via button
 * added keyboard navigation in chart view (⬅️, ➡️, ⬆️, ⬇️) and zoom via keyboard (crtl + ➕ and crtl + ➖)
