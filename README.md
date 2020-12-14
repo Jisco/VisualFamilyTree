@@ -4,7 +4,7 @@ With this app you can create a family tree with extensive information and pictur
 
 Website: [https://visualfamilytree.jisco.me](https://visualfamilytree.jisco.me)
 
-## :star: Currently working on :star:
+## :star: In Progress :star:
 - [ ] New export to extern files (png, pdf...)
 - [ ] [Import from GEDCOM](https://github.com/Jisco/VisualFamilyTree/projects/1)
 - [ ] Export to GEDCOM
