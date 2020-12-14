@@ -4,6 +4,13 @@ With this app you can create a family tree with extensive information and pictur
 
 Website: [https://visualfamilytree.jisco.me](https://visualfamilytree.jisco.me)
 
+## :star: Currently working on :star:
+- [ ] New export to extern files (png, pdf...)
+- [ ] Import from GEDCOM
+- [ ] Export to GEDCOM
+
+:loudspeaker: If you have a question about Visual Family Tree or one of the planned features, you can ask your questions here **[Discussions](https://github.com/Jisco/VisualFamilyTree/discussions)** :loudspeaker:
+
 ## Version 1.3.5
 * Minor Bugfixings
 
