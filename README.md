@@ -9,7 +9,7 @@ Website: [https://visualfamilytree.jisco.me](https://visualfamilytree.jisco.me)
 - [ ] [Import from GEDCOM](https://github.com/Jisco/VisualFamilyTree/projects/1)
 - [ ] Export to GEDCOM
 
-:loudspeaker: If you have a question about VFT or one of the planned features, you can ask your questions here **[Discussions](https://github.com/Jisco/VisualFamilyTree/discussions)** :loudspeaker:
+:loudspeaker: If you have a question about VFT or one of the planned features, you can ask your questions here **[Discussions](https://github.com/Jisco/VisualFamilyTree/discussions)**
 
 ## Version 1.3.5
 * Minor Bugfixings
