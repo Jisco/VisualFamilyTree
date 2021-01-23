@@ -8,6 +8,7 @@ Website: [https://visualfamilytree.jisco.me](https://visualfamilytree.jisco.me)
 - [ ] New export to extern files (png, pdf...)
 - [ ] [Import from GEDCOM](https://github.com/Jisco/VisualFamilyTree/projects/1)
 - [ ] [Export to GEDCOM](https://github.com/Jisco/VisualFamilyTree/projects/1)
+- [x] Create Mac OS X Version (will be shipped with next release)
 
 :loudspeaker: If you have a question about VFT or one of the planned features, you can ask your questions here **[Discussions](https://github.com/Jisco/VisualFamilyTree/discussions)**
 
