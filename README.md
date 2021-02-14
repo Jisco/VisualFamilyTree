@@ -6,11 +6,16 @@ Website: [https://visualfamilytree.jisco.me](https://visualfamilytree.jisco.me)
 
 ## :star: In Progress :star:
 - [ ] New export to extern files (png, pdf...)
-- [ ] [Import from GEDCOM](https://github.com/Jisco/VisualFamilyTree/projects/1)
 - [ ] [Export to GEDCOM](https://github.com/Jisco/VisualFamilyTree/projects/1)
-- [x] Create Mac OS X Version (will be shipped with next release)
 
 :loudspeaker: If you have a question about VFT or one of the planned features, you can ask your questions here **[Discussions](https://github.com/Jisco/VisualFamilyTree/discussions)**
+
+## Version 1.4.0
+* First release on Mac OSx 🍎 
+* Enable import of GEDCOM files 🚀 
+* Donation button added to menu ( maybe you will click on it... ) 😅 
+By the way, you can spend via [PayPal](http://paypal.me/jisco), [Patreon](https://www.patreon.com/jiscoMe) or you just [buy me a pizza](https://www.buymeacoffee.com/Jisco) 
+* Adding an awesome "what's new" popup (will only show once after each update)
 
 ## Version 1.3.5
 * Minor Bugfixings
