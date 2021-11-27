@@ -2,7 +2,7 @@
 
 With this app you can create a family tree with extensive information and pictures about the individual family members. The whole thing can be done very simply using the mouse and a few keystrokes. An editor to export this family tree in different formats (pdf, svg, png) is also included. The output can be configured extensively.
 
-Website: [https://visualfamilytree.jisco.me](https://visualfamilytree.jisco.me)
+Website: [https://jisco.me/visual-family-tree](https://jisco.me/visual-family-tree)
 
 ## :star: In Progress :star:
 - [ ] New export to extern files (png, pdf...)
